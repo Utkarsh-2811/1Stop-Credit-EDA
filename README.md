@@ -9,9 +9,14 @@ Ultimately, it prepares the dataset for further predictive modeling or decision-
 
 # 🛠 Steps & Workflow
 -Data Loading: Imported the dataset using pandas.
+
 -Initial Exploration: Checked the structure, data types, null values, and descriptive stats.
+
 -Data Cleaning: Handled missing values and detected outliers.
+
 -Univariate Analysis: Plotted individual feature distributions using histograms and boxplots.
+
 -Bivariate Analysis: Explored relationships between features using scatter plots and heatmaps.
+
 -Insights & Observations: Summarized key patterns found in the data.
 
